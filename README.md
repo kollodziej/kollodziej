@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kollodziej&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📰 Articles
-
+https://dev.to/cloudskills/getting-started-with-terraform-on-azure-deploying-resources-4i59
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
