@@ -13,6 +13,7 @@
 • https://dev.to/cloudskills/getting-started-with-terraform-on-azure-deploying-resources-4i59
 
 ## 🏆 GitHub Trophies
+[TEXT TO SHOW]
 ![Getting Started with Terraform on Azure: Deploying Resources](https://github-profile-trophy.vercel.app/?username=kollodziej&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
