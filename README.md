@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kollodziej&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📰 Articles
-[• Auth0: using system browser to authenticate in .NET desktop application](https://dev.to/melmanm/auth0-using-system-browser-to-authenticate-in-net-desktop-application-1f6j)
+[• Auth0: using system browser to authenticate in .NET desktop application](https://dev.to/melmanm/auth0-using-system-browser-to-authenticate-in-net-desktop-application-1f6j)<br/>
 [• Getting Started with Terraform on Azure: Deploying Resources](https://dev.to/cloudskills/getting-started-with-terraform-on-azure-deploying-resources-4i59)
 
 ## 🏆 GitHub Trophies
